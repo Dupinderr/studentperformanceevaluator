@@ -1,4 +1,4 @@
-# Student Performance Evaluator
+# Student Performance Evaluator 🤓☝️
 
 A web-based application to analyze and evaluate student performance based on demographic and academic data. Users can upload datasets and interactively explore performance patterns in **Math**, **Reading**, and **Writing** scores.
 
